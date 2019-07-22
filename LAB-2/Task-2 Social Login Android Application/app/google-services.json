@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "596665138140",
+    "firebase_url": "https://fir-uploadimagesapp.firebaseio.com",
+    "project_id": "fir-uploadimagesapp",
+    "storage_bucket": "fir-uploadimagesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596665138140:android:a78d3df9e22904c6",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuploadimagesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596665138140-4cod2psvnoijnfg1st6575t3tlapdp3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseuploadimagesapp",
+            "certificate_hash": "b4ebff41601ffae7ef1ddd30c1bab881a59a3aa4"
+          }
+        },
+        {
+          "client_id": "596665138140-rvi37heirjfed4be676qvgnnqf5g9rc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseuploadimagesapp",
+            "certificate_hash": "1ee320447ee52021ac4c3c369c77eeee1f1c54be"
+          }
+        },
+        {
+          "client_id": "596665138140-krvrov11sufo5l7skri6me0vfovss93h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNN5tAXE0P2ppj7fNqPHcfJ-2FK_SUg_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596665138140-krvrov11sufo5l7skri6me0vfovss93h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596665138140:android:40c9309a50bbff41",
+        "android_client_info": {
+          "package_name": "com.umkc.lab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596665138140-67ve74fbu6gv1aeuk4qamh5441dn4vt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.umkc.lab3",
+            "certificate_hash": "b4ebff41601ffae7ef1ddd30c1bab881a59a3aa4"
+          }
+        },
+        {
+          "client_id": "596665138140-krvrov11sufo5l7skri6me0vfovss93h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNN5tAXE0P2ppj7fNqPHcfJ-2FK_SUg_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596665138140-krvrov11sufo5l7skri6me0vfovss93h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
